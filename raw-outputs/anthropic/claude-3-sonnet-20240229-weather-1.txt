@@ -1,0 +1,111 @@
+[stream start] 2024-7-5 10:45:39.552
+[chunk 0] 2024-7-5 10:45:39.571
+{"type":"message_start","message":{"id":"msg_01NiZr5rjQLQtr98gnhGKm3U","type":"message","role":"assistant","model":"claude-3-sonnet-20240229","content":[],"stop_reason":null,"stop_sequence":null,"usage":{"input_tokens":350,"output_tokens":4}}}
+
+[chunk 1] 2024-7-5 10:45:39.572
+{"type":"content_block_start","index":0,"content_block":{"type":"text","text":""}}
+
+[chunk 2] 2024-7-5 10:45:39.573
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"好的,"}}
+
+[chunk 3] 2024-7-5 10:45:39.576
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"我现在就"}}
+
+[chunk 4] 2024-7-5 10:45:39.579
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"使"}}
+
+[chunk 5] 2024-7-5 10:45:39.826
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"用天"}}
+
+[chunk 6] 2024-7-5 10:45:39.837
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"气查"}}
+
+[chunk 7] 2024-7-5 10:45:39.843
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"询工"}}
+
+[chunk 8] 2024-7-5 10:45:39.859
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"具获"}}
+
+[chunk 9] 2024-7-5 10:45:39.877
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"取杭州"}}
+
+[chunk 10] 2024-7-5 10:45:39.879
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"和北京的"}}
+
+[chunk 11] 2024-7-5 10:45:39.897
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"实时天气"}}
+
+[chunk 12] 2024-7-5 10:45:40.342
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"情况。"}}
+
+[chunk 13] 2024-7-5 10:45:40.343
+{"type":"content_block_stop","index":0}
+
+[chunk 14] 2024-7-5 10:45:40.345
+{"type":"content_block_start","index":1,"content_block":{"type":"tool_use","id":"toolu_01HJDyG532pibdp6euXPqQva","name":"realtime-weather____fetchCurrentWeather","input":{}}}
+
+[chunk 15] 2024-7-5 10:45:40.608
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":""}}
+
+[chunk 16] 2024-7-5 10:45:40.612
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"{\"city\": \"\\u"}}
+
+[chunk 17] 2024-7-5 10:45:40.616
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"676d"}}
+
+[chunk 18] 2024-7-5 10:45:40.619
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"\\u5"}}
+
+[chunk 19] 2024-7-5 10:45:40.626
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"dde\"}"}}
+
+[chunk 20] 2024-7-5 10:45:40.632
+{"type":"content_block_stop","index":1}
+
+[chunk 21] 2024-7-5 10:45:40.634
+{"type":"message_delta","delta":{"stop_reason":"tool_use","stop_sequence":null},"usage":{"output_tokens":94}}
+
+[chunk 22] 2024-7-5 10:45:40.729
+{"type":"message_stop"}
+
+[stream finished] total chunks: 23
+
+ 
+[stream start] 2024-7-5 10:45:46.806
+[chunk 0] 2024-7-5 10:45:46.809
+{"type":"message_start","message":{"id":"msg_014TyPePjnH7XNgH7DzU89Zp","type":"message","role":"assistant","model":"claude-3-sonnet-20240229","content":[],"stop_reason":null,"stop_sequence":null,"usage":{"input_tokens":833,"output_tokens":30}}}
+
+[chunk 1] 2024-7-5 10:45:46.810
+{"type":"content_block_start","index":0,"content_block":{"type":"tool_use","id":"toolu_01PxpcvZBheiQw8z3zS4E76y","name":"realtime-weather____fetchCurrentWeather","input":{}}}
+
+[chunk 2] 2024-7-5 10:45:47.161
+{"type":"content_block_delta","index":0,"delta":{"type":"input_json_delta","partial_json":""}}
+
+[chunk 3] 2024-7-5 10:45:47.164
+{"type":"content_block_delta","index":0,"delta":{"type":"input_json_delta","partial_json":"{\"c"}}
+
+[chunk 4] 2024-7-5 10:45:47.168
+{"type":"content_block_delta","index":0,"delta":{"type":"input_json_delta","partial_json":"ity\""}}
+
+[chunk 5] 2024-7-5 10:45:47.171
+{"type":"content_block_delta","index":0,"delta":{"type":"input_json_delta","partial_json":": \"\\"}}
+
+[chunk 6] 2024-7-5 10:45:47.172
+{"type":"content_block_delta","index":0,"delta":{"type":"input_json_delta","partial_json":"u5317\\"}}
+
+[chunk 7] 2024-7-5 10:45:47.175
+{"type":"content_block_delta","index":0,"delta":{"type":"input_json_delta","partial_json":"u4e"}}
+
+[chunk 8] 2024-7-5 10:45:47.177
+{"type":"content_block_delta","index":0,"delta":{"type":"input_json_delta","partial_json":"ac\"}"}}
+
+[chunk 9] 2024-7-5 10:45:47.178
+{"type":"content_block_stop","index":0}
+
+[chunk 10] 2024-7-5 10:45:47.179
+{"type":"message_delta","delta":{"stop_reason":"tool_use","stop_sequence":null},"usage":{"output_tokens":61}}
+
+[chunk 11] 2024-7-5 10:45:47.184
+{"type":"message_stop"}
+
+[stream finished] total chunks: 12
