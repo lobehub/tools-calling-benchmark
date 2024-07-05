@@ -1,0 +1,821 @@
+[stream start] 2024-7-5 17:53:50.420
+[chunk 0] 2024-7-5 17:53:50.446
+{"type":"message_start","message":{"id":"msg_01SoaaX4jWAmRFZfPa79NB4e","type":"message","role":"assistant","model":"claude-3-opus-20240229","content":[],"stop_reason":null,"stop_sequence":null,"usage":{"input_tokens":1981,"output_tokens":2}}}
+
+[chunk 1] 2024-7-5 17:53:50.451
+{"type":"content_block_start","index":0,"content_block":{"type":"text","text":""}}
+
+[chunk 2] 2024-7-5 17:53:50.543
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"<thinking>\nThe"}}
+
+[chunk 3] 2024-7-5 17:53:50.545
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" user"}}
+
+[chunk 4] 2024-7-5 17:53:50.548
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" aske"}}
+
+[chunk 5] 2024-7-5 17:53:50.650
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"d to"}}
+
+[chunk 6] 2024-7-5 17:53:50.659
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" draw a picture of"}}
+
+[chunk 7] 2024-7-5 17:53:50.677
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" a pup"}}
+
+[chunk 8] 2024-7-5 17:53:50.678
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"py. The"}}
+
+[chunk 9] 2024-7-5 17:53:51.52
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" l"}}
+
+[chunk 10] 2024-7-5 17:53:51.59
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"obe-image-"}}
+
+[chunk 11] 2024-7-5 17:53:51.61
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"designer tool is"}}
+
+[chunk 12] 2024-7-5 17:53:51.63
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" relevant"}}
+
+[chunk 13] 2024-7-5 17:53:51.442
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" for"}}
+
+[chunk 14] 2024-7-5 17:53:51.447
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" generating"}}
+
+[chunk 15] 2024-7-5 17:53:51.450
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" images from text descriptions"}}
+
+[chunk 16] 2024-7-5 17:53:51.451
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"."}}
+
+[chunk 17] 2024-7-5 17:53:51.839
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" The require"}}
+
+[chunk 18] 2024-7-5 17:53:51.844
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"d \""}}
+
+[chunk 19] 2024-7-5 17:53:51.846
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"prom"}}
+
+[chunk 20] 2024-7-5 17:53:51.854
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"pts\" parameter"}}
+
+[chunk 21] 2024-7-5 17:53:52.167
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" can"}}
+
+[chunk 22] 2024-7-5 17:53:52.176
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" be inferred from"}}
+
+[chunk 23] 2024-7-5 17:53:52.184
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" the user"}}
+
+[chunk 24] 2024-7-5 17:53:52.191
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"'s request by"}}
+
+[chunk 25] 2024-7-5 17:53:52.604
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" providing"}}
+
+[chunk 26] 2024-7-5 17:53:52.608
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" a"}}
+
+[chunk 27] 2024-7-5 17:53:52.613
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" detaile"}}
+
+[chunk 28] 2024-7-5 17:53:52.621
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"d description"}}
+
+[chunk 29] 2024-7-5 17:53:53.19
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" of the puppy"}}
+
+[chunk 30] 2024-7-5 17:53:53.23
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" image"}}
+
+[chunk 31] 2024-7-5 17:53:53.25
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" to"}}
+
+[chunk 32] 2024-7-5 17:53:53.34
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" generate"}}
+
+[chunk 33] 2024-7-5 17:53:53.362
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"."}}
+
+[chunk 34] 2024-7-5 17:53:53.366
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"\n\nTo make"}}
+
+[chunk 35] 2024-7-5 17:53:53.554
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" the image prom"}}
+
+[chunk 36] 2024-7-5 17:53:53.559
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"pts more descriptive"}}
+
+[chunk 37] 2024-7-5 17:53:53.753
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":", I shoul"}}
+
+[chunk 38] 2024-7-5 17:53:53.761
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"d specify"}}
+
+[chunk 39] 2024-7-5 17:53:53.769
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" details"}}
+
+[chunk 40] 2024-7-5 17:53:53.770
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" like:"}}
+
+[chunk 41] 2024-7-5 17:53:54.149
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"\n- The"}}
+
+[chunk 42] 2024-7-5 17:53:54.155
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" bree"}}
+
+[chunk 43] 2024-7-5 17:53:54.162
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"d or"}}
+
+[chunk 44] 2024-7-5 17:53:54.163
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" general"}}
+
+[chunk 45] 2024-7-5 17:53:54.604
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" appearance"}}
+
+[chunk 46] 2024-7-5 17:53:54.607
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" of the puppy"}}
+
+[chunk 47] 2024-7-5 17:53:54.619
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" "}}
+
+[chunk 48] 2024-7-5 17:53:54.620
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"\n- The"}}
+
+[chunk 49] 2024-7-5 17:53:54.898
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" setting"}}
+
+[chunk 50] 2024-7-5 17:53:54.900
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" or backgroun"}}
+
+[chunk 51] 2024-7-5 17:53:54.998
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"d the"}}
+
+[chunk 52] 2024-7-5 17:53:55.3
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" puppy is in"}}
+
+[chunk 53] 2024-7-5 17:53:55.267
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"\n- What"}}
+
+[chunk 54] 2024-7-5 17:53:55.320
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" the puppy is"}}
+
+[chunk 55] 2024-7-5 17:53:55.323
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" doing ("}}
+
+[chunk 56] 2024-7-5 17:53:55.324
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"sitting"}}
+
+[chunk 57] 2024-7-5 17:53:55.657
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":", playing, etc"}}
+
+[chunk 58] 2024-7-5 17:53:55.664
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":".)\n- Notable"}}
+
+[chunk 59] 2024-7-5 17:53:55.676
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" features"}}
+
+[chunk 60] 2024-7-5 17:53:55.678
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" or"}}
+
+[chunk 61] 2024-7-5 17:53:56.371
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" accessories"}}
+
+[chunk 62] 2024-7-5 17:53:56.381
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" the puppy has"}}
+
+[chunk 63] 2024-7-5 17:53:56.382
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"\n- The"}}
+
+[chunk 64] 2024-7-5 17:53:56.384
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" artistic"}}
+
+[chunk 65] 2024-7-5 17:53:56.782
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" style ("}}
+
+[chunk 66] 2024-7-5 17:53:56.785
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"photo"}}
+
+[chunk 67] 2024-7-5 17:53:56.788
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":", painting"}}
+
+[chunk 68] 2024-7-5 17:53:56.789
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":", drawing"}}
+
+[chunk 69] 2024-7-5 17:53:56.792
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":", etc.)"}}
+
+[chunk 70] 2024-7-5 17:53:56.803
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"\n\nI"}}
+
+[chunk 71] 2024-7-5 17:53:56.809
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"'ll"}}
+
+[chunk 72] 2024-7-5 17:53:56.816
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" generate"}}
+
+[chunk 73] 2024-7-5 17:53:57.225
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" "}}
+
+[chunk 74] 2024-7-5 17:53:57.231
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"4"}}
+
+[chunk 75] 2024-7-5 17:53:57.233
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" diverse"}}
+
+[chunk 76] 2024-7-5 17:53:57.235
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" prom"}}
+
+[chunk 77] 2024-7-5 17:53:57.566
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"pts covering different"}}
+
+[chunk 78] 2024-7-5 17:53:57.573
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" aspects of a"}}
+
+[chunk 79] 2024-7-5 17:53:57.579
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" puppy image."}}
+
+[chunk 80] 2024-7-5 17:53:57.580
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" No"}}
+
+[chunk 81] 2024-7-5 17:53:57.967
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" other"}}
+
+[chunk 82] 2024-7-5 17:53:57.998
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" tools are"}}
+
+[chunk 83] 2024-7-5 17:53:58.1
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" needed. The optional"}}
+
+[chunk 84] 2024-7-5 17:53:58.3
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" size"}}
+
+[chunk 85] 2024-7-5 17:53:58.333
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":","}}
+
+[chunk 86] 2024-7-5 17:53:58.339
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" style"}}
+
+[chunk 87] 2024-7-5 17:53:58.341
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":", quality"}}
+
+[chunk 88] 2024-7-5 17:53:58.342
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":", and see"}}
+
+[chunk 89] 2024-7-5 17:53:58.802
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"d parameters"}}
+
+[chunk 90] 2024-7-5 17:53:58.807
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" can be om"}}
+
+[chunk 91] 2024-7-5 17:53:58.811
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"itted an"}}
+
+[chunk 92] 2024-7-5 17:53:58.813
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"d will use"}}
+
+[chunk 93] 2024-7-5 17:53:59.97
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" the defaults."}}
+
+[chunk 94] 2024-7-5 17:54:0.373
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"\n</thinking>"}}
+
+[chunk 95] 2024-7-5 17:54:0.375
+{"type":"content_block_stop","index":0}
+
+[chunk 96] 2024-7-5 17:54:0.378
+{"type":"content_block_start","index":1,"content_block":{"type":"tool_use","id":"toolu_017ouYp7ExFzrMkAVHGWw8Mh","name":"lobe-image-designer____text2image____builtin","input":{}}}
+
+[chunk 97] 2024-7-5 17:54:12.684
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":""}}
+
+[chunk 98] 2024-7-5 17:54:12.690
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"{\"prompt"}}
+
+[chunk 99] 2024-7-5 17:54:12.692
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"s\": \"1. \\u4"}}
+
+[chunk 100] 2024-7-5 17:54:12.693
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"e0"}}
+
+[chunk 101] 2024-7-5 17:54:12.696
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"0\\u"}}
+
+[chunk 102] 2024-7-5 17:54:12.698
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"5f20\\u53ef"}}
+
+[chunk 103] 2024-7-5 17:54:12.701
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"\\u72"}}
+
+[chunk 104] 2024-7-5 17:54:12.703
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"31\\u"}}
+
+[chunk 105] 2024-7-5 17:54:12.713
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"7684\\u91"}}
+
+[chunk 106] 2024-7-5 17:54:12.714
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"d1\\"}}
+
+[chunk 107] 2024-7-5 17:54:12.715
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"u6"}}
+
+[chunk 108] 2024-7-5 17:54:12.716
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"bdb\\u5b"}}
+
+[chunk 109] 2024-7-5 17:54:12.717
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"fb\\u56de\\u7"}}
+
+[chunk 110] 2024-7-5 17:54:12.717
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"2ac\\u"}}
+
+[chunk 111] 2024-7-5 17:54:12.723
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"5c0f\\u72d"}}
+
+[chunk 112] 2024-7-5 17:54:12.724
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"7\\u7684\\u7"}}
+
+[chunk 113] 2024-7-5 17:54:12.725
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"167\\u7247"}}
+
+[chunk 114] 2024-7-5 17:54:12.733
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":",\\u5c"}}
+
+[chunk 115] 2024-7-5 17:54:12.734
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"0f\\u72"}}
+
+[chunk 116] 2024-7-5 17:54:12.735
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"d7\\"}}
+
+[chunk 117] 2024-7-5 17:54:12.736
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"u5750\\u572"}}
+
+[chunk 118] 2024-7-5 17:54:12.739
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"8\\u7ef"}}
+
+[chunk 119] 2024-7-5 17:54:12.740
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"f\\u8"}}
+
+[chunk 120] 2024-7-5 17:54:12.742
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"349\\u5"}}
+
+[chunk 121] 2024-7-5 17:54:12.743
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"982\\u"}}
+
+[chunk 122] 2024-7-5 17:54:12.746
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"833"}}
+
+[chunk 123] 2024-7-5 17:54:12.754
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"5\\u"}}
+
+[chunk 124] 2024-7-5 17:54:12.755
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"7684\\u966"}}
+
+[chunk 125] 2024-7-5 17:54:12.756
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"2\\u5b5"}}
+
+[chunk 126] 2024-7-5 17:54:12.758
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"0\\u9"}}
+
+[chunk 127] 2024-7-5 17:54:12.761
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"1cc,\\u65c1\\u"}}
+
+[chunk 128] 2024-7-5 17:54:12.763
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"8fb9\\u6709\\u"}}
+
+[chunk 129] 2024-7-5 17:54:12.768
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"4e00\\u4e"}}
+
+[chunk 130] 2024-7-5 17:54:12.770
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"2a\\u7ea2\\u82"}}
+
+[chunk 131] 2024-7-5 17:54:12.778
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"72\\"}}
+
+[chunk 132] 2024-7-5 17:54:12.780
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"u768"}}
+
+[chunk 133] 2024-7-5 17:54:12.782
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"4\\u7"}}
+
+[chunk 134] 2024-7-5 17:54:12.784
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"3a9\\u517"}}
+
+[chunk 135] 2024-7-5 17:54:12.786
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"7\\u7403,\\u"}}
+
+[chunk 136] 2024-7-5 17:54:12.786
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"9633\\u5149\\u"}}
+
+[chunk 137] 2024-7-5 17:54:12.789
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"7167\\u57"}}
+
+[chunk 138] 2024-7-5 17:54:12.790
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"28\\u"}}
+
+[chunk 139] 2024-7-5 17:54:12.798
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"5c0f"}}
+
+[chunk 140] 2024-7-5 17:54:12.956
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"\\u72d7\\"}}
+
+[chunk 141] 2024-7-5 17:54:12.958
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"u84"}}
+
+[chunk 142] 2024-7-5 17:54:12.959
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"ec"}}
+
+[chunk 143] 2024-7-5 17:54:12.961
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"\\u677e\\u7684"}}
+
+[chunk 144] 2024-7-5 17:54:12.963
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"\\u91d1\\u"}}
+
+[chunk 145] 2024-7-5 17:54:12.965
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"8272"}}
+
+[chunk 146] 2024-7-5 17:54:12.966
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"\\u76"}}
+
+[chunk 147] 2024-7-5 17:54:12.973
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"ae\\u"}}
+
+[chunk 148] 2024-7-5 17:54:12.976
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"6bdb"}}
+
+[chunk 149] 2024-7-5 17:54:12.976
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"\\u"}}
+
+[chunk 150] 2024-7-5 17:54:12.977
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"4e0a\\u3"}}
+
+[chunk 151] 2024-7-5 17:54:12.978
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"002\\n2. \\"}}
+
+[chunk 152] 2024-7-5 17:54:12.978
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"u4e00\\u5e45"}}
+
+[chunk 153] 2024-7-5 17:54:12.979
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"\\u903c\\u771f"}}
+
+[chunk 154] 2024-7-5 17:54:12.979
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"\\u7684\\u5"}}
+
+[chunk 155] 2024-7-5 17:54:12.980
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"f69\\u94c5"}}
+
+[chunk 156] 2024-7-5 17:54:12.992
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"\\u753b,\\"}}
+
+[chunk 157] 2024-7-5 17:54:12.994
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"u753b\\u"}}
+
+[chunk 158] 2024-7-5 17:54:12.996
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"7740\\u4e00\\u"}}
+
+[chunk 159] 2024-7-5 17:54:12.998
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"53"}}
+
+[chunk 160] 2024-7-5 17:54:13.0
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"ea\\u897f\\u"}}
+
+[chunk 161] 2024-7-5 17:54:13.1
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"65bd\\u72ac"}}
+
+[chunk 162] 2024-7-5 17:54:13.2
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"\\u5"}}
+
+[chunk 163] 2024-7-5 17:54:13.2
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"c0f\\u72d7,\\"}}
+
+[chunk 164] 2024-7-5 17:54:13.10
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"u5c0f\\u72d7\\"}}
+
+[chunk 165] 2024-7-5 17:54:13.12
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"u6234\\"}}
+
+[chunk 166] 2024-7-5 17:54:13.13
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"u7740\\"}}
+
+[chunk 167] 2024-7-5 17:54:13.14
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"u8"}}
+
+[chunk 168] 2024-7-5 17:54:13.18
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"4d"}}
+
+[chunk 169] 2024-7-5 17:54:13.19
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"d\\u8272\\"}}
+
+[chunk 170] 2024-7-5 17:54:13.19
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"u768"}}
+
+[chunk 171] 2024-7-5 17:54:13.22
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"4\\u9879\\u"}}
+
+[chunk 172] 2024-7-5 17:54:13.22
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"5708,\\u8db4"}}
+
+[chunk 173] 2024-7-5 17:54:13.23
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"\\u"}}
+
+[chunk 174] 2024-7-5 17:54:13.30
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"572"}}
+
+[chunk 175] 2024-7-5 17:54:13.32
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"8\\u6"}}
+
+[chunk 176] 2024-7-5 17:54:13.32
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"7d"}}
+
+[chunk 177] 2024-7-5 17:54:13.33
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"4\\u8f6f\\u7"}}
+
+[chunk 178] 2024-7-5 17:54:13.33
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"684\\u7c73\\u8"}}
+
+[chunk 179] 2024-7-5 17:54:13.34
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"272\\u6bdb\\u6"}}
+
+[chunk 180] 2024-7-5 17:54:13.35
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"bef\\"}}
+
+[chunk 181] 2024-7-5 17:54:13.40
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"u4e0a,\\u9e"}}
+
+[chunk 182] 2024-7-5 17:54:13.41
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"d1\\u82"}}
+
+[chunk 183] 2024-7-5 17:54:13.50
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"72\\u768"}}
+
+[chunk 184] 2024-7-5 17:54:13.50
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"4\\u5927\\u773"}}
+
+[chunk 185] 2024-7-5 17:54:13.51
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"c\\u7"}}
+
+[chunk 186] 2024-7-5 17:54:13.51
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"75b\\u671b"}}
+
+[chunk 187] 2024-7-5 17:54:13.54
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"\\u"}}
+
+[chunk 188] 2024-7-5 17:54:13.55
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"7740\\u7"}}
+
+[chunk 189] 2024-7-5 17:54:13.56
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"53b\\u9762\\u5"}}
+
+[chunk 190] 2024-7-5 17:54:13.56
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"916\\u3"}}
+
+[chunk 191] 2024-7-5 17:54:13.59
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"002\\n3"}}
+
+[chunk 192] 2024-7-5 17:54:13.66
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":". "}}
+
+[chunk 193] 2024-7-5 17:54:13.68
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"\\u4"}}
+
+[chunk 194] 2024-7-5 17:54:13.72
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"e00\\u5"}}
+
+[chunk 195] 2024-7-5 17:54:13.73
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"f20\\u5"}}
+
+[chunk 196] 2024-7-5 17:54:13.73
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"4c8\\u58e"}}
+
+[chunk 197] 2024-7-5 17:54:13.74
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"b\\u5947"}}
+
+[chunk 198] 2024-7-5 17:54:13.75
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"\\u5c0f\\u72d7"}}
+
+[chunk 199] 2024-7-5 17:54:13.78
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"\\u5728\\u96"}}
+
+[chunk 200] 2024-7-5 17:54:13.79
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"ea\\u5730\\u9"}}
+
+[chunk 201] 2024-7-5 17:54:13.80
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"1cc\\u73a9\\"}}
+
+[chunk 202] 2024-7-5 17:54:13.80
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"u800d"}}
+
+[chunk 203] 2024-7-5 17:54:13.88
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"\\u7684\\u71"}}
+
+[chunk 204] 2024-7-5 17:54:13.88
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"67\\u724"}}
+
+[chunk 205] 2024-7-5 17:54:13.89
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"7,\\u5c0f\\"}}
+
+[chunk 206] 2024-7-5 17:54:13.90
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"u72d7\\u7a7f"}}
+
+[chunk 207] 2024-7-5 17:54:13.91
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"\\u7"}}
+
+[chunk 208] 2024-7-5 17:54:13.92
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"74"}}
+
+[chunk 209] 2024-7-5 17:54:13.92
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"0\\"}}
+
+[chunk 210] 2024-7-5 17:54:13.93
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"u7ea2\\u8272\\"}}
+
+[chunk 211] 2024-7-5 17:54:13.93
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"u7684\\u5c0f\\"}}
+
+[chunk 212] 2024-7-5 17:54:13.117
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"u72d7\\u67"}}
+
+[chunk 213] 2024-7-5 17:54:13.121
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"0d,\\u56db\\u"}}
+
+[chunk 214] 2024-7-5 17:54:13.122
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"80a2\\"}}
+
+[chunk 215] 2024-7-5 17:54:13.122
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"u9"}}
+
+[chunk 216] 2024-7-5 17:54:13.123
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"677\\u57"}}
+
+[chunk 217] 2024-7-5 17:54:13.124
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"28\\u767d\\u96"}}
+
+[chunk 218] 2024-7-5 17:54:13.124
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"ea\\"}}
+
+[chunk 219] 2024-7-5 17:54:13.126
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"u91cc,\\u5"}}
+
+[chunk 220] 2024-7-5 17:54:13.126
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"634\\u91"}}
+
+[chunk 221] 2024-7-5 17:54:13.128
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"cc\\u"}}
+
+[chunk 222] 2024-7-5 17:54:13.128
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"53fc\\u7740"}}
+
+[chunk 223] 2024-7-5 17:54:13.129
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"\\u4e00\\u6839"}}
+
+[chunk 224] 2024-7-5 17:54:13.130
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"\\u6811\\u"}}
+
+[chunk 225] 2024-7-5 17:54:13.132
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"679d,\\"}}
+
+[chunk 226] 2024-7-5 17:54:13.133
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"u770"}}
+
+[chunk 227] 2024-7-5 17:54:13.134
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"b\\u4"}}
+
+[chunk 228] 2024-7-5 17:54:13.135
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"e0a\\u53bb\\u6"}}
+
+[chunk 229] 2024-7-5 17:54:13.156
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"d3b\\u6cfc"}}
+
+[chunk 230] 2024-7-5 17:54:13.157
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"\\u597d"}}
+
+[chunk 231] 2024-7-5 17:54:13.157
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"\\u52a"}}
+
+[chunk 232] 2024-7-5 17:54:13.158
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"8\\u3002\\n4"}}
+
+[chunk 233] 2024-7-5 17:54:13.176
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":". \\u4e00"}}
+
+[chunk 234] 2024-7-5 17:54:13.178
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"\\u5f20\\u"}}
+
+[chunk 235] 2024-7-5 17:54:13.178
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"5361\\u"}}
+
+[chunk 236] 2024-7-5 17:54:13.179
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"901a\\u9"}}
+
+[chunk 237] 2024-7-5 17:54:13.179
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"8ce\\u6"}}
+
+[chunk 238] 2024-7-5 17:54:13.182
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"83c\\u76"}}
+
+[chunk 239] 2024-7-5 17:54:13.183
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"84\\u63d2"}}
+
+[chunk 240] 2024-7-5 17:54:13.184
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"\\u7"}}
+
+[chunk 241] 2024-7-5 17:54:13.184
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"53b"}}
+
+[chunk 242] 2024-7-5 17:54:13.192
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":",\\u753"}}
+
+[chunk 243] 2024-7-5 17:54:13.193
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"b\\u7"}}
+
+[chunk 244] 2024-7-5 17:54:13.194
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"740\\u4e0"}}
+
+[chunk 245] 2024-7-5 17:54:13.194
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"0\\u53ea\\u7"}}
+
+[chunk 246] 2024-7-5 17:54:13.199
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"a7f\\u7"}}
+
+[chunk 247] 2024-7-5 17:54:13.200
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"740\\u9ec"}}
+
+[chunk 248] 2024-7-5 17:54:13.202
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"4\\u8272\\u9"}}
+
+[chunk 249] 2024-7-5 17:54:13.203
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"6e8"}}
+
+[chunk 250] 2024-7-5 17:54:13.203
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"\\u8863\\u7"}}
+
+[chunk 251] 2024-7-5 17:54:13.211
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"684\\u"}}
+
+[chunk 252] 2024-7-5 17:54:13.214
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"6cf0\\u8fe"}}
+
+[chunk 253] 2024-7-5 17:54:13.215
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"a\\u72ac\\u5"}}
+
+[chunk 254] 2024-7-5 17:54:13.217
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"c0f\\u72d7"}}
+
+[chunk 255] 2024-7-5 17:54:13.218
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":",\\u5c0"}}
+
+[chunk 256] 2024-7-5 17:54:13.220
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"f\\u72d7\\u7a"}}
+
+[chunk 257] 2024-7-5 17:54:13.221
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"d9\\u5728\\u6c"}}
+
+[chunk 258] 2024-7-5 17:54:13.222
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"34\\u57"}}
+
+[chunk 259] 2024-7-5 17:54:13.231
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"51\\u91c"}}
+
+[chunk 260] 2024-7-5 17:54:13.232
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"c,\\u56d"}}
+
+[chunk 261] 2024-7-5 17:54:13.234
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"b\\u5468\\u98d"}}
+
+[chunk 262] 2024-7-5 17:54:13.235
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"8\\u7"}}
+
+[chunk 263] 2024-7-5 17:54:13.236
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"740\\u96e8\\"}}
+
+[chunk 264] 2024-7-5 17:54:13.237
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"u6ef"}}
+
+[chunk 265] 2024-7-5 17:54:13.237
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"4,\\u61a8\\"}}
+
+[chunk 266] 2024-7-5 17:54:13.238
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"u60"}}
+
+[chunk 267] 2024-7-5 17:54:13.239
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"01\\u53"}}
+
+[chunk 268] 2024-7-5 17:54:13.240
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"ef\\u63ac\\u"}}
+
+[chunk 269] 2024-7-5 17:54:13.240
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"3002\"}"}}
+
+[chunk 270] 2024-7-5 17:54:13.241
+{"type":"content_block_stop","index":1}
+
+[chunk 271] 2024-7-5 17:54:13.242
+{"type":"message_delta","delta":{"stop_reason":"tool_use","stop_sequence":null},"usage":{"output_tokens":545}}
+
+[chunk 272] 2024-7-5 17:54:13.256
+{"type":"message_stop"}
+
+[stream finished] total chunks: 273
