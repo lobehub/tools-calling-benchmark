@@ -1,0 +1,489 @@
+[stream start] 2024-7-5 17:31:12.399
+[chunk 0] 2024-7-5 17:31:12.405
+{"type":"message_start","message":{"id":"msg_0148bYnEE6XKuMnM4vx81TjM","type":"message","role":"assistant","model":"claude-3-opus-20240229","content":[],"stop_reason":null,"stop_sequence":null,"usage":{"input_tokens":724,"output_tokens":2}}}
+
+[chunk 1] 2024-7-5 17:31:12.406
+{"type":"content_block_start","index":0,"content_block":{"type":"text","text":""}}
+
+[chunk 2] 2024-7-5 17:31:12.408
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"<thinking>\nTo"}}
+
+[chunk 3] 2024-7-5 17:31:12.409
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" answer"}}
+
+[chunk 4] 2024-7-5 17:31:12.423
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" the"}}
+
+[chunk 5] 2024-7-5 17:31:12.425
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" user"}}
+
+[chunk 6] 2024-7-5 17:31:12.427
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"'s request"}}
+
+[chunk 7] 2024-7-5 17:31:12.429
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" for weather"}}
+
+[chunk 8] 2024-7-5 17:31:12.799
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" information for both"}}
+
+[chunk 9] 2024-7-5 17:31:12.813
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" Hangzhou an"}}
+
+[chunk 10] 2024-7-5 17:31:12.815
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"d Beijing, I will"}}
+
+[chunk 11] 2024-7-5 17:31:12.841
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" nee"}}
+
+[chunk 12] 2024-7-5 17:31:13.193
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"d to"}}
+
+[chunk 13] 2024-7-5 17:31:13.198
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" call"}}
+
+[chunk 14] 2024-7-5 17:31:13.199
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" the"}}
+
+[chunk 15] 2024-7-5 17:31:13.201
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" realtime-weather"}}
+
+[chunk 16] 2024-7-5 17:31:13.599
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"____fetchCurrentWe"}}
+
+[chunk 17] 2024-7-5 17:31:13.621
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"ather tool twice"}}
+
+[chunk 18] 2024-7-5 17:31:13.624
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":","}}
+
+[chunk 19] 2024-7-5 17:31:13.627
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" once for"}}
+
+[chunk 20] 2024-7-5 17:31:14.96
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" each"}}
+
+[chunk 21] 2024-7-5 17:31:14.102
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" city."}}
+
+[chunk 22] 2024-7-5 17:31:14.104
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"\n\nThe"}}
+
+[chunk 23] 2024-7-5 17:31:14.106
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" require"}}
+
+[chunk 24] 2024-7-5 17:31:14.809
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"d parameter"}}
+
+[chunk 25] 2024-7-5 17:31:14.857
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" for this"}}
+
+[chunk 26] 2024-7-5 17:31:14.906
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" tool is:"}}
+
+[chunk 27] 2024-7-5 17:31:14.952
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"\ncity"}}
+
+[chunk 28] 2024-7-5 17:31:14.957
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" ("}}
+
+[chunk 29] 2024-7-5 17:31:14.959
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"string)"}}
+
+[chunk 30] 2024-7-5 17:31:14.960
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" - The name of"}}
+
+[chunk 31] 2024-7-5 17:31:14.974
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" the city to fetch"}}
+
+[chunk 32] 2024-7-5 17:31:15.146
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" weather for"}}
+
+[chunk 33] 2024-7-5 17:31:15.150
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"\n\nThe"}}
+
+[chunk 34] 2024-7-5 17:31:15.158
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" user"}}
+
+[chunk 35] 2024-7-5 17:31:15.833
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" has provided the"}}
+
+[chunk 36] 2024-7-5 17:31:15.837
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" city names"}}
+
+[chunk 37] 2024-7-5 17:31:15.841
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" directly"}}
+
+[chunk 38] 2024-7-5 17:31:15.842
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" in"}}
+
+[chunk 39] 2024-7-5 17:31:15.861
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" their request, so"}}
+
+[chunk 40] 2024-7-5 17:31:15.869
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" I have"}}
+
+[chunk 41] 2024-7-5 17:31:15.879
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" the"}}
+
+[chunk 42] 2024-7-5 17:31:15.880
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" necessary"}}
+
+[chunk 43] 2024-7-5 17:31:16.309
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" information to make the"}}
+
+[chunk 44] 2024-7-5 17:31:16.314
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" tool calls."}}
+
+[chunk 45] 2024-7-5 17:31:16.320
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"\n\nI will make"}}
+
+[chunk 46] 2024-7-5 17:31:16.324
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" the calls"}}
+
+[chunk 47] 2024-7-5 17:31:16.716
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" in the order the"}}
+
+[chunk 48] 2024-7-5 17:31:16.755
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" cities"}}
+
+[chunk 49] 2024-7-5 17:31:16.776
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" were"}}
+
+[chunk 50] 2024-7-5 17:31:16.780
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" mentione"}}
+
+[chunk 51] 2024-7-5 17:31:17.240
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"d -"}}
+
+[chunk 52] 2024-7-5 17:31:17.301
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" first for"}}
+
+[chunk 53] 2024-7-5 17:31:17.324
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" Hangzhou,"}}
+
+[chunk 54] 2024-7-5 17:31:17.329
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" then for Beijing."}}
+
+[chunk 55] 2024-7-5 17:31:17.522
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" After"}}
+
+[chunk 56] 2024-7-5 17:31:17.529
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" getting"}}
+
+[chunk 57] 2024-7-5 17:31:17.630
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" the results"}}
+
+[chunk 58] 2024-7-5 17:31:17.634
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":","}}
+
+[chunk 59] 2024-7-5 17:31:17.902
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" I will summar"}}
+
+[chunk 60] 2024-7-5 17:31:17.907
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"ize the"}}
+
+[chunk 61] 2024-7-5 17:31:17.921
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" weather for"}}
+
+[chunk 62] 2024-7-5 17:31:17.930
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" both cities in"}}
+
+[chunk 63] 2024-7-5 17:31:18.293
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" my"}}
+
+[chunk 64] 2024-7-5 17:31:18.299
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":" response."}}
+
+[chunk 65] 2024-7-5 17:31:18.341
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"\n</thinking>"}}
+
+[chunk 66] 2024-7-5 17:31:18.349
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"\n\n好"}}
+
+[chunk 67] 2024-7-5 17:31:18.690
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"的，让"}}
+
+[chunk 68] 2024-7-5 17:31:18.693
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"我查"}}
+
+[chunk 69] 2024-7-5 17:31:18.703
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"一"}}
+
+[chunk 70] 2024-7-5 17:31:18.708
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"下"}}
+
+[chunk 71] 2024-7-5 17:31:19.42
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"杭州和北"}}
+
+[chunk 72] 2024-7-5 17:31:19.66
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"京的当"}}
+
+[chunk 73] 2024-7-5 17:31:19.85
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"前天气情"}}
+
+[chunk 74] 2024-7-5 17:31:20.62
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"况。"}}
+
+[chunk 75] 2024-7-5 17:31:20.79
+{"type":"content_block_stop","index":0}
+
+[chunk 76] 2024-7-5 17:31:20.84
+{"type":"content_block_start","index":1,"content_block":{"type":"tool_use","id":"toolu_013Zn631GzVvo5YLbskPsoey","name":"realtime-weather____fetchCurrentWeather","input":{}}}
+
+[chunk 77] 2024-7-5 17:31:20.627
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":""}}
+
+[chunk 78] 2024-7-5 17:31:20.632
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"{\"city\": "}}
+
+[chunk 79] 2024-7-5 17:31:20.635
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"\"\\"}}
+
+[chunk 80] 2024-7-5 17:31:20.644
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"u6"}}
+
+[chunk 81] 2024-7-5 17:31:20.653
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"76d\\u5dde\"}"}}
+
+[chunk 82] 2024-7-5 17:31:20.655
+{"type":"content_block_stop","index":1}
+
+[chunk 83] 2024-7-5 17:31:20.658
+{"type":"message_delta","delta":{"stop_reason":"tool_use","stop_sequence":null},"usage":{"output_tokens":221}}
+
+[chunk 84] 2024-7-5 17:31:20.790
+{"type":"message_stop"}
+
+[stream finished] total chunks: 85
+
+-----------
+
+[stream start] 2024-7-5 17:31:27.287
+[chunk 0] 2024-7-5 17:31:27.294
+{"type":"message_start","message":{"id":"msg_01GPSvrHgoYSPBqbhfKaEkhH","type":"message","role":"assistant","model":"claude-3-opus-20240229","content":[],"stop_reason":null,"stop_sequence":null,"usage":{"input_tokens":1330,"output_tokens":6}}}
+
+[chunk 1] 2024-7-5 17:31:27.296
+{"type":"content_block_start","index":0,"content_block":{"type":"text","text":""}}
+
+[chunk 2] 2024-7-5 17:31:27.400
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"\n\n杭州市今"}}
+
+[chunk 3] 2024-7-5 17:31:27.403
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"天天"}}
+
+[chunk 4] 2024-7-5 17:31:27.479
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"气"}}
+
+[chunk 5] 2024-7-5 17:31:27.493
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"晴朗，"}}
+
+[chunk 6] 2024-7-5 17:31:27.497
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"最"}}
+
+[chunk 7] 2024-7-5 17:31:27.554
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"高温度38"}}
+
+[chunk 8] 2024-7-5 17:31:27.888
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"度"}}
+
+[chunk 9] 2024-7-5 17:31:27.933
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"，最低温"}}
+
+[chunk 10] 2024-7-5 17:31:27.938
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"度28度，"}}
+
+[chunk 11] 2024-7-5 17:31:27.940
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"白"}}
+
+[chunk 12] 2024-7-5 17:31:28.293
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"天和"}}
+
+[chunk 13] 2024-7-5 17:31:28.300
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"夜间西"}}
+
+[chunk 14] 2024-7-5 17:31:28.301
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"南风4级"}}
+
+[chunk 15] 2024-7-5 17:31:29.84
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"。"}}
+
+[chunk 16] 2024-7-5 17:31:29.87
+{"type":"content_block_stop","index":0}
+
+[chunk 17] 2024-7-5 17:31:29.91
+{"type":"content_block_start","index":1,"content_block":{"type":"tool_use","id":"toolu_01FySwWkDkQsJaZSxKcaHp9f","name":"realtime-weather____fetchCurrentWeather","input":{}}}
+
+[chunk 18] 2024-7-5 17:31:29.849
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":""}}
+
+[chunk 19] 2024-7-5 17:31:29.854
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"{\"c"}}
+
+[chunk 20] 2024-7-5 17:31:29.857
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"ity\": \"\\u"}}
+
+[chunk 21] 2024-7-5 17:31:29.859
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"5317\\u4eac"}}
+
+[chunk 22] 2024-7-5 17:31:29.862
+{"type":"content_block_delta","index":1,"delta":{"type":"input_json_delta","partial_json":"\"}"}}
+
+[chunk 23] 2024-7-5 17:31:29.874
+{"type":"content_block_stop","index":1}
+
+[chunk 24] 2024-7-5 17:31:29.877
+{"type":"message_delta","delta":{"stop_reason":"tool_use","stop_sequence":null},"usage":{"output_tokens":101}}
+
+[chunk 25] 2024-7-5 17:31:29.886
+{"type":"message_stop"}
+
+[stream finished] total chunks: 26
+
+-----------------
+
+[stream start] 2024-7-5 17:31:35.255
+[chunk 0] 2024-7-5 17:31:35.273
+{"type":"message_start","message":{"id":"msg_017UWP4VDhvTNytgQ3U3xtG7","type":"message","role":"assistant","model":"claude-3-opus-20240229","content":[],"stop_reason":null,"stop_sequence":null,"usage":{"input_tokens":1823,"output_tokens":4}}}
+
+[chunk 1] 2024-7-5 17:31:35.274
+{"type":"content_block_start","index":0,"content_block":{"type":"text","text":""}}
+
+[chunk 2] 2024-7-5 17:31:35.276
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"\n\n北京今"}}
+
+[chunk 3] 2024-7-5 17:31:35.278
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"天白"}}
+
+[chunk 4] 2024-7-5 17:31:35.281
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"天多"}}
+
+[chunk 5] 2024-7-5 17:31:35.731
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"云，"}}
+
+[chunk 6] 2024-7-5 17:31:35.738
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"最高温度"}}
+
+[chunk 7] 2024-7-5 17:31:35.753
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"32"}}
+
+[chunk 8] 2024-7-5 17:31:35.756
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"度，南"}}
+
+[chunk 9] 2024-7-5 17:31:36.140
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"风1-3"}}
+
+[chunk 10] 2024-7-5 17:31:36.145
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"级;"}}
+
+[chunk 11] 2024-7-5 17:31:36.148
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"夜间小"}}
+
+[chunk 12] 2024-7-5 17:31:36.151
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"雨，"}}
+
+[chunk 13] 2024-7-5 17:31:36.530
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"最低温度"}}
+
+[chunk 14] 2024-7-5 17:31:36.535
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"23度，"}}
+
+[chunk 15] 2024-7-5 17:31:36.545
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"南"}}
+
+[chunk 16] 2024-7-5 17:31:36.547
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"风1-3"}}
+
+[chunk 17] 2024-7-5 17:31:36.876
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"级。\n\n总"}}
+
+[chunk 18] 2024-7-5 17:31:36.887
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"结"}}
+
+[chunk 19] 2024-7-5 17:31:36.896
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"一下:"}}
+
+[chunk 20] 2024-7-5 17:31:36.897
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"\n杭州今"}}
+
+[chunk 21] 2024-7-5 17:31:37.253
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"天"}}
+
+[chunk 22] 2024-7-5 17:31:37.265
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"晴朗，"}}
+
+[chunk 23] 2024-7-5 17:31:37.271
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"最高38"}}
+
+[chunk 24] 2024-7-5 17:31:37.273
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"度，最低"}}
+
+[chunk 25] 2024-7-5 17:31:37.739
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"28度。"}}
+
+[chunk 26] 2024-7-5 17:31:37.744
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"\n北京今"}}
+
+[chunk 27] 2024-7-5 17:31:37.748
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"天白天多"}}
+
+[chunk 28] 2024-7-5 17:31:37.752
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"云，"}}
+
+[chunk 29] 2024-7-5 17:31:38.242
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"晚"}}
+
+[chunk 30] 2024-7-5 17:31:38.251
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"上"}}
+
+[chunk 31] 2024-7-5 17:31:38.253
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"有小雨"}}
+
+[chunk 32] 2024-7-5 17:31:38.255
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"，最高32"}}
+
+[chunk 33] 2024-7-5 17:31:38.432
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"度，最"}}
+
+[chunk 34] 2024-7-5 17:31:38.436
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"低23"}}
+
+[chunk 35] 2024-7-5 17:31:38.438
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"度。"}}
+
+[chunk 36] 2024-7-5 17:31:38.440
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"\n两地"}}
+
+[chunk 37] 2024-7-5 17:31:38.795
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"温"}}
+
+[chunk 38] 2024-7-5 17:31:38.807
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"差"}}
+
+[chunk 39] 2024-7-5 17:31:38.827
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"较大，"}}
+
+[chunk 40] 2024-7-5 17:31:39.291
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"杭州"}}
+
+[chunk 41] 2024-7-5 17:31:39.298
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"炎热，北"}}
+
+[chunk 42] 2024-7-5 17:31:39.299
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"京凉"}}
+
+[chunk 43] 2024-7-5 17:31:39.300
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"爽一"}}
+
+[chunk 44] 2024-7-5 17:31:39.570
+{"type":"content_block_delta","index":0,"delta":{"type":"text_delta","text":"些。"}}
+
+[chunk 45] 2024-7-5 17:31:39.572
+{"type":"content_block_stop","index":0}
+
+[chunk 46] 2024-7-5 17:31:39.573
+{"type":"message_delta","delta":{"stop_reason":"end_turn","stop_sequence":null},"usage":{"output_tokens":127}}
+
+[chunk 47] 2024-7-5 17:31:39.679
+{"type":"message_stop"}
+
+[stream finished] total chunks: 48

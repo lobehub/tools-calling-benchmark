@@ -1,0 +1,67 @@
+[stream start] 2024-7-5 17:30:36.353
+[chunk 0] 2024-7-5 17:30:36.376
+{"type":"message_start","message":{"id":"msg_01LZek8wkzsxB4bxC1RHioS1","type":"message","role":"assistant","model":"claude-3-haiku-20240307","content":[],"stop_reason":null,"stop_sequence":null,"usage":{"input_tokens":455,"output_tokens":1}}}
+
+[chunk 1] 2024-7-5 17:30:36.380
+{"type":"content_block_start","index":0,"content_block":{"type":"tool_use","id":"toolu_016rLPwPmhMaHSv6AFtcLBnN","name":"realtime-weather____fetchCurrentWeather","input":{}}}
+
+[chunk 2] 2024-7-5 17:30:36.408
+{"type":"content_block_delta","index":0,"delta":{"type":"input_json_delta","partial_json":""}}
+
+[chunk 3] 2024-7-5 17:30:36.410
+{"type":"content_block_delta","index":0,"delta":{"type":"input_json_delta","partial_json":"{\"city"}}
+
+[chunk 4] 2024-7-5 17:30:36.424
+{"type":"content_block_delta","index":0,"delta":{"type":"input_json_delta","partial_json":"\": \"\\u676"}}
+
+[chunk 5] 2024-7-5 17:30:36.443
+{"type":"content_block_delta","index":0,"delta":{"type":"input_json_delta","partial_json":"d\\u5dde\"}"}}
+
+[chunk 6] 2024-7-5 17:30:36.457
+{"type":"content_block_stop","index":0}
+
+[chunk 7] 2024-7-5 17:30:36.458
+{"type":"message_delta","delta":{"stop_reason":"tool_use","stop_sequence":null},"usage":{"output_tokens":61}}
+
+[chunk 8] 2024-7-5 17:30:36.462
+{"type":"message_stop"}
+
+[stream finished] total chunks: 9
+
+
+
+[stream start] 2024-7-5 17:30:40.953
+[chunk 0] 2024-7-5 17:30:40.959
+{"type":"message_start","message":{"id":"msg_01QXRBWofC9WKKZ23psAm9yq","type":"message","role":"assistant","model":"claude-3-haiku-20240307","content":[],"stop_reason":null,"stop_sequence":null,"usage":{"input_tokens":902,"output_tokens":30}}}
+
+[chunk 1] 2024-7-5 17:30:40.960
+{"type":"content_block_start","index":0,"content_block":{"type":"tool_use","id":"toolu_01TchK7HdwFip2d83ZQCnFH5","name":"realtime-weather____fetchCurrentWeather","input":{}}}
+
+[chunk 2] 2024-7-5 17:30:41.79
+{"type":"content_block_delta","index":0,"delta":{"type":"input_json_delta","partial_json":""}}
+
+[chunk 3] 2024-7-5 17:30:41.83
+{"type":"content_block_delta","index":0,"delta":{"type":"input_json_delta","partial_json":"{\"city"}}
+
+[chunk 4] 2024-7-5 17:30:41.86
+{"type":"content_block_delta","index":0,"delta":{"type":"input_json_delta","partial_json":"\": \""}}
+
+[chunk 5] 2024-7-5 17:30:41.136
+{"type":"content_block_delta","index":0,"delta":{"type":"input_json_delta","partial_json":"\\u"}}
+
+[chunk 6] 2024-7-5 17:30:41.139
+{"type":"content_block_delta","index":0,"delta":{"type":"input_json_delta","partial_json":"5317\\u4ea"}}
+
+[chunk 7] 2024-7-5 17:30:41.141
+{"type":"content_block_delta","index":0,"delta":{"type":"input_json_delta","partial_json":"c\"}"}}
+
+[chunk 8] 2024-7-5 17:30:41.148
+{"type":"content_block_stop","index":0}
+
+[chunk 9] 2024-7-5 17:30:41.152
+{"type":"message_delta","delta":{"stop_reason":"tool_use","stop_sequence":null},"usage":{"output_tokens":61}}
+
+[chunk 10] 2024-7-5 17:30:41.155
+{"type":"message_stop"}
+
+[stream finished] total chunks: 11
