@@ -1,0 +1,11 @@
+[stream start] 2024-7-7 17:53:25.647
+[chunk 0] 2024-7-7 17:53:25.654
+{"candidates":[{"content":{"parts":[{"text":"好的"}],"role":"model"},"finishReason":"STOP","index":0}],"usageMetadata":{"promptTokenCount":95,"candidatesTokenCount":1,"totalTokenCount":96}}
+
+[chunk 1] 2024-7-7 17:53:26.288
+{"candidates":[{"content":{"parts":[{"text":"\n\n"}],"role":"model"},"finishReason":"STOP","index":0,"safetyRatings":[{"category":"HARM_CATEGORY_SEXUALLY_EXPLICIT","probability":"NEGLIGIBLE"},{"category":"HARM_CATEGORY_HATE_SPEECH","probability":"NEGLIGIBLE"},{"category":"HARM_CATEGORY_HARASSMENT","probability":"NEGLIGIBLE"},{"category":"HARM_CATEGORY_DANGEROUS_CONTENT","probability":"NEGLIGIBLE"}]}],"usageMetadata":{"promptTokenCount":95,"candidatesTokenCount":1,"totalTokenCount":96}}
+
+[chunk 2] 2024-7-7 17:53:26.336
+{"candidates":[{"content":{"parts":[{"functionCall":{"name":"weather____fetchCurrentWeather","args":{"city":"杭州"}}},{"functionCall":{"name":"weather____fetchCurrentWeather","args":{"city":"北京"}}}],"role":"model"},"finishReasoSTOP","index":0,"safetyRatings":[{"category":"HARM_CATEGORY_SEXUALLY_EXPLICIT","probability":"NEGLIGIBLE"},{"category":"HARM_CATEGORY_HATE_SPEECH","probability":"NEGLIGIBLE"},{"category":"HARM_CATEGORY_HARASSMENT","probability":"NEGLIGIBLE"},{"category":"HARM_CATEGORY_DANGEROUS_CONTENT","probability":"NEGLIGIBLE"}]}],"usageMetadata":{"promptTokenCount":95,"candidatesTokenCount":79,"totalTokenCount":174}}
+
+[stream finished] total chunks: 3
