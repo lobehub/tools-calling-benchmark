@@ -1,0 +1,6 @@
+
+[no stream response] 2024-7-8 18:0:34.811
+
+{"id":"chatcmpl-e3b59ca9-1172-4ae2-96c7-3d6997a1f8a8","object":"chat.completion","created":1720432834,"model":"llama3-70b-8192","choices":[{"index":0,"message":{"role":"assistant","tool_calls":[{"id":"call_azm9","type":"function","function":{"name":"lobe-image-designer____text2image____builtin","arguments":"{\"prompts\":[\"A small, fluffy, and playful golden retriever puppy with a white patch on its forehead, sitting on a green grass field with a bright blue sky in the background, photo.\",\"A cute, little, brown and white Dalmatian puppy with a red collar, running around in a park with a sunny day, illustration.\",\"A tiny, grey and white Poodle puppy with a pink ribbon, sitting on a white couch with a few toys surrounding it, watercolor painting.\",\"A sweet, small, black and white Chihuahua puppy with a pink bow, lying on a soft, white blanket with a few stuffed animals nearby, oil painting.\"],\"quality\":\"standard\",\"seeds\":[],\"size\":\"1024x1024\",\"style\":\"vivid\"}"}}]},"logprobs":null,"finish_reason":"tool_calls"}],"usage":{"prompt_tokens":2305,"prompt_time":3.027052298,"completion_tokens":246,"completion_time":0.702857143,"total_tokens":2551,"total_time":3.729909441},"system_fingerprint":"fp_7ab5f7e105","x_groq":{"id":"req_01j28wk2q0efvs22qatw7rd0ds"}}
+
+ POST /api/chat/groq 200 in 17462ms
