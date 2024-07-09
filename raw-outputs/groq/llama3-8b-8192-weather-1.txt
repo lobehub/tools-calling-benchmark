@@ -1,0 +1,5 @@
+[no stream response] 2024-7-9 11:33:16.920
+
+{"id":"chatcmpl-f3672d59-e91d-4253-af1b-bfc4e0912085","object":"chat.completion","created":1720495996,"model":"llama3-8b-8192","choices":[{"index":0,"message":{"role":"assistant","tool_calls":[{"id":"call_rjtk","type":"function","function":{"name":"realtime-weather____fetchCurrentWeather","arguments":"{\"city\":\"杭州市\"}"}},{"id":"call_7pqh","type":"functi,"function":{"name":"realtime-weather____fetchCurrentWeather","arguments":"{\"city\":\"北京市\"}"}}]},"logprobs":null,"finish_reason":"tool_calls"}],"usage":{"prompt_tokens":969,"ppt_time":0.145428625,"completion_tokens":128,"completion_time":0.101364747,"total_tokens":1097,"total_time":0.246793372},"system_fingerprint":"fp_33d61fdfc3","x_groq":{"id":"req_01j2artze1exz82nettf2h9066"}}
+
+POST /api/chat/groq 200 in 1649ms

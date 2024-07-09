@@ -1,0 +1,5 @@
+[no stream response] 2024-7-9 11:58:27.40
+
+{"id":"chatcmpl-3c38f4d2-3424-416c-9fb0-0969d2683959","object":"chat.completion","created":1720497506,"model":"llama3-8b-8192","choices":[{"index":0,"message":{"role":"assistant","tool_calls":[{"id":"call_k6xj","type":"function","function":{"name":"lobe-image-designer____text2image____builtin","arguments":"{\"prompts\":[\"Create a watercolor painting of a small white dog with a pink nose, wearing a red collar and sitting on a green grass. The dog's ears should be floppy and its fur should be curly.\"],\"quality\":\"standard\",\"seeds\":[],\"size\":\"1024x1024\",\"style\":\"natural\"}"}}]},"logprobs":null,"finish_reason":"tool_calls"}],"usage":{"prompt_tokens":2282,"prompt_time":0.342335558,"completion_tokens":148,"completion_time":0.118023813,"total_tokens":2430,"total_time":0.460359371},"system_fingerprint":"fp_179b0f92c9","x_groq":{"id":"req_01j2at921tec8aymdq48czcw1y"}}
+
+POST /api/chat/groq 200 in 2517ms

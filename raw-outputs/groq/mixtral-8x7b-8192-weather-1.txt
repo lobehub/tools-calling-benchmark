@@ -1,0 +1,5 @@
+[no stream response] 2024-7-8 22:18:19.682
+
+{"id":"chatcmpl-9f89d669-5642-48be-b5cd-7a29756800c0","object":"chat.completion","created":1720448299,"model":"mixtral-8x7b-32768","choices":[{"index":0,"message":{"role":"assistant","tool_calls":[{"id":"call_719t","type":"function","function":{"name":"realtime-weather____fetchCurrentWeather","arguments":"{\"city\":\"Hangzhou,Beijing\"}"}}]},"logprobs":null,"finish_reason":"tool_calls"}],"usage":{"prompt_tokens":1262,"prompt_time":0.116684046,"completion_tokens":102,"completion_time":0.163113006,"total_tokens":1364,"total_time":0.279797052},"system_fingerprint":"fp_c5f20b5bb1","x_groq":{"id":"req_01j29bbc8xen2s3thp9qen5bys"}}
+
+POST /api/chat/groq 200 in 4860ms
